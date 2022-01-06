@@ -191,14 +191,16 @@ header {
   }
   .trainer img {
     width: 35%;
-    float: left;.text-left {
+    float: left; 
+    
+  }.text-left {
       text-align: left;
     }
     
     .text-right {
       text-align: right;
     }
-  }
+  
 
   .trainer-bio h3 {
     font-size: 32px;
